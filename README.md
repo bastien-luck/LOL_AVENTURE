@@ -1,12 +1,17 @@
 LOL_AVENTURE
 
+
 Plateforme utilisé :
 Windows 7
 
 Logiciel de programmation :
-eclipse
+Eclipse
+
+Langage de programmation :
+Java
 
 Ce projet a été réalisé lors de la période des grandes vacances après mon année d'intégration à l'ENSIBS.
+Ce projet a été fait par LUCK Bastien.
 
 Le jeu est loin d'être fini (seul le setup de départ existe réellement) mais ne sera pas modifié donc il est considéré en version finale.
 Contrairement aux autres jeux, la raison de la non modification de ce programme n'est pas que je considère le jeu suffisamment jouable pour ne pas avoir réellement à le toucher et que mieux vaut voir une autre mécanique de gameplay mais plutôt que le programme est juste trop lourd (pour la lecture ainsi que l'ordinateur (/!\ à ne pas le faire tourner trop longtemps car il utilise fortement le CPU (50-75% sur mon viel ordi))).
